@@ -1,0 +1,22 @@
+@use '../custom' as *;
+
+.intro-section {
+    background: linear-gradient(to right, rgba($primary, 0.95), rgba($secondary, 0.95));
+    padding: 5rem 0 0 0;
+    width: 100%;
+    height: 100%;
+}
+
+.col-md-6 {
+    margin-top: 100 !important;
+    padding-top: 100 !important;
+}
+
+#home {
+    
+}
+
+.intro-sectin .video-box{
+    padding: 100rem 0 0 0;
+
+}
